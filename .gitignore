@@ -43,3 +43,4 @@ venv/
 .venv/
 env/
 .env/
+staticfiles/
